@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ScoreCountAPP" parent="Theme.MaterialComponents.Light">
+        <item name="colorPrimary">#FF0000</item>
+
+    </style>
+</resources>
